@@ -54,39 +54,6 @@
 !
 # Extra sources
 #
-||phub.net.cable.rogers.com^$important
-||imgaz.staticbg.com^$important
-!
-# RegExp
-#
-/^protection\...police\.com/
-!
-# Porn
-#
-||*porn*.tumblr.com^
-||*porn*.blogspot.com^
-||*sex*.blogspot.com^
-||*ero-advertising.com^
-||*fuck.com^
-||*porn.com^
-||*porno.com^
-||*virgins.com^
-||*xxx.com^
-||*.porn^
-||*.sex^
-||*.sexy^
-||*.xxx^
-||*pornhub*
-||*youporn*
-||*hentai*
-||*bongacam*
-||*erotica*
-||*porntube*
-||*gaytube*
-||*xhamster*
-||*pornmovies*
-||*xxxmovies*
-||*sexfilms*
-||*lesbians*
+||ds-assets.cdn.devapps.ru^
 !
 !
