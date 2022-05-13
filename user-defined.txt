@@ -13,6 +13,7 @@
 @@||star.c10r.facebook.com
 @@||web.facebook.com
 @@||zoom.us^$important
+@@||yastatic.net^$important
 #
 # Skype Ads
 #
