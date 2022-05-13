@@ -9,6 +9,7 @@
 #@@||ad.admitad.com^$important
 @@||mobile.facebook.com^$important
 @@||graph.facebook.com
+@@||graph.instagram.com
 @@||edge-chat.facebook.com^$important
 @@||star.c10r.facebook.com
 @@||web.facebook.com
